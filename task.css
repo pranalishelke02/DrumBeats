@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: rgb(172, 208, 255);
+}
+h1{
+    color: rgb(13, 13, 88);
+    padding: 0px;
+    margin-left: 10px;
+    margin-top: 40px;
+    font-size: 2cm;
+    font-family: 'Kalam', cursive;
+    font-family: 'Rock Salt', cursive;
+}
+body{
+    text-align: center;
+}
+.btn{
+    
+    font-size: 2cm;
+    color: rgba(238, 255, 0, 0.966);
+    text-shadow: 0cap;
+    height: 150px;
+    width: 150px;
+    border: 5px solid rgb(0, 24, 70);
+    border-radius: 20px;
+    background-color: rgb(64, 67, 209);
+    justify-content: space-between;
+    margin-top: 150px;
+}
+#W{
+    background-image: url(icons/accordion.png);
+    background-size: cover;
+}
+#A{
+    background-image: url(icons/drum.png);
+    background-size: cover;
+}
+#S{
+    background-image: url(icons/french-horn.png);
+    background-size: cover;
+}
+#D{
+    background-image: url(icons/guitar-bass-head.png);
+    background-size: cover;
+}
+#J{
+    background-image: url(icons/saxophone.png);
+    background-size: cover;
+}
+#K{
+    background-image: url(icons/trumpet.png);
+    background-size: cover;
+}
+#I{
+    background-image: url(icons/tuba.png);
+    background-size: cover;
+} 
